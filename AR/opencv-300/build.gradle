@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('opencv-300.jar'))
